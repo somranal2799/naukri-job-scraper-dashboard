@@ -31,7 +31,7 @@ This project uses **Selenium** to scrape real-time **Data Analyst job listings**
 
 ### 🔧 1. Clone this repo
 ```bash
-git clone https://github.com/yourusername/naukri-job-scraper-dashboard.git
+git clone https://github.com/somranal2799/naukri-job-scraper-dashboard.git
 cd naukri-job-scraper-dashboard
 🐍 2. Set up environment
 Install dependencies:
