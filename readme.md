@@ -12,11 +12,7 @@ This project uses **Selenium** to scrape real-time **Data Analyst job listings**
 - ✅ Charts and summaries: Most common skills, locations, companies, etc.  
 - ✅ One-click export to Excel  
 
----
-
-
-
-## 🛠️ Technologies Used
+---## 🛠️ Technologies Used
 
 - 🐍 Python
 - 🌐 Selenium (web scraping)
@@ -28,7 +24,6 @@ This project uses **Selenium** to scrape real-time **Data Analyst job listings**
 ---
 
 ## 🚀 How to Run
-
 ### 🔧 1. Clone this repo
 ```bash
 git clone https://github.com/somranal2799/naukri-job-scraper-dashboard.git
@@ -44,8 +39,6 @@ python scraper.py
 
 streamlit run dashboard.py
 📂 Project Structure
-
-
 📦 naukri-job-scraper-dashboard/
 ├── scraper.py             # Scrapes job data from Naukri
 ├── app.py           # Streamlit dashboard app
@@ -74,4 +67,4 @@ Resume matching for job fit
 
 Email alerts for fresh jobs
 
-Thanks for reading , Feel free to put your review 
+Thanks for reading , Feel free to comment.
